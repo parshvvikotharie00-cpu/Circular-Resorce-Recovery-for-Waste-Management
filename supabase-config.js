@@ -8,6 +8,6 @@
  */
 
 window.CRI_SUPABASE = {
-  url: "https://vmmywaqztgwjiyshoxmq.supabase.co/rest/v1/",
+  url: "https://vmmywaqztgwjiyshoxmq.supabase.co",
   publishableKey: "sb_publishable_3wXBmc1wO7pqGc70tOValg_foTFn3Yd"
 };
