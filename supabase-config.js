@@ -1,6 +1,13 @@
-// Paste the public Project URL and publishable/anon key from Supabase.
-// NEVER paste the service_role/secret key here.
+
+/*
+ * Circular Resource Intelligence Platform
+ * Supabase Configuration — Beta V2
+ *
+ * Only public credentials belong in this file.
+ * Never use a secret or service_role key here.
+ */
+
 window.CRI_SUPABASE = {
-  url: '',
-  publishableKey: ''
+  url: "https://vmmywaqztgwjiyshoxmq.supabase.co/rest/v1/",
+  publishableKey: "sb_publishable_3wXBmc1wO7pqGc70tOValg_foTFn3Yd"
 };
